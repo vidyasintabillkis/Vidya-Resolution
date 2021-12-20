@@ -1,2 +1,2 @@
-# Vidya-Resolusi
+# Vidya-Resolusi 
 Repository untuk menyimpan rencana vidya kedepan
